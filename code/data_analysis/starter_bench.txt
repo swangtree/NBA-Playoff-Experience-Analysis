@@ -1,0 +1,24 @@
+ln(Playoff Score	
+with Starter and Bench Exp Difference	
+	(1)
+VARIABLES	ln_score
+	
+ln_reg_season_points	0.945***
+	(0.0456)
+ln_opp_reg_season_pa	0.760***
+	(0.0482)
+away	-0.0414***
+	(0.00337)
+starters_playoff_exp_dif	9.67e-07***
+	(2.57e-07)
+bench_playoff_exp_dif	7.26e-07*
+	(3.91e-07)
+Constant	-3.265***
+	(0.285)
+	
+Observations	4,476
+Number of year	30
+R-squared	0.188
+Year FE	YES
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

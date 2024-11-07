@@ -1,0 +1,22 @@
+ln(Playoff Score	
+Base Model with Starter Exp Difference	
+	(1)
+VARIABLES	ln_score
+	
+ln_reg_season_points	0.944***
+	(0.0456)
+ln_opp_reg_season_pa	0.771***
+	(0.0479)
+away	-0.0415***
+	(0.00337)
+starters_playoff_exp_dif	1.16e-06***
+	(2.35e-07)
+Constant	-3.308***
+	(0.284)
+	
+Observations	4,476
+Number of year	30
+R-squared	0.187
+Year FE	YES
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

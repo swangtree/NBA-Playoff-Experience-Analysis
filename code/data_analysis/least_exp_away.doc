@@ -1,0 +1,35 @@
+{\rtf1\fs24
+\pard\qc
+ln(Playoff Score\par
+with Least Starters Exp Difference Quartile\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx4752\clbrdrt\brdrs\cellx6480
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx4752\cellx6480
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx6480
+\ql VARIABLES\cell\qc ln_score\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx4752\cellx6480
+\ql \cell\qc \cell\row
+\ql ln_reg_season_points\cell\qc 0.945***\cell\row
+\ql \cell\qc (0.0460)\cell\row
+\ql ln_opp_reg_season_pa\cell\qc 0.778***\cell\row
+\ql \cell\qc (0.0482)\cell\row
+\ql away\cell\qc -0.0445***\cell\row
+\ql \cell\qc (0.00396)\cell\row
+\ql starters_playoff_exp_dif\cell\qc 1.50e-06***\cell\row
+\ql \cell\qc (3.57e-07)\cell\row
+\ql least_starters_exp_quartile\cell\qc 0.00489\cell\row
+\ql \cell\qc (0.00736)\cell\row
+\ql least_starters_exp_quartile_away\cell\qc 0.00654\cell\row
+\ql \cell\qc (0.00791)\cell\row
+\ql Constant\cell\qc -3.343***\cell\row
+\ql \cell\qc (0.285)\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 4,322\cell\row
+\ql Number of year\cell\qc 29\cell\row
+\ql R-squared\cell\qc 0.193\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx6480
+\ql Year FE\cell\qc YES\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

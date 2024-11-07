@@ -1,0 +1,61 @@
+Year,Game ID,Series,URL1,URL2,Team1,Team2,Start Date,End Date
+2023,015,finals,/playoffs/2023-nba-finals-nuggets-vs-heat.html,/playoffs/2023-nba-finals-heat-vs-nuggets.html,DEN,MIA,6/1/23,6/12/23
+2022,030,finals,/playoffs/2022-nba-finals-warriors-vs-celtics.html,/playoffs/2022-nba-finals-celtics-vs-warriors.html,GSW,BOS,6/2/22,6/16/22
+2021,034,western conference first round,/playoffs/2021-nba-western-conference-first-round-nuggets-vs-trail-blazers.html,/playoffs/2021-nba-western-conference-first-round-trail-blazers-vs-nuggets.html,POR,DEN,5/22/21,6/3/21
+2021,045,finals,/playoffs/2021-nba-finals-bucks-vs-suns.html,/playoffs/2021-nba-finals-suns-vs-bucks.html,PHO,MIL,7/6/21,7/20/21
+2020,050,western conference first round,/playoffs/2020-nba-western-conference-first-round-lakers-vs-trail-blazers.html,/playoffs/2020-nba-western-conference-first-round-trail-blazers-vs-lakers.html,LAL,POR,8/18/20,8/29/20
+2020,060,finals,/playoffs/2020-nba-finals-lakers-vs-heat.html,/playoffs/2020-nba-finals-heat-vs-lakers.html,LAL,MIA,9/30/20,10/11/20
+2019,067,western conference first round,/playoffs/2019-nba-western-conference-first-round-trail-blazers-vs-thunder.html,/playoffs/2019-nba-western-conference-first-round-thunder-vs-trail-blazers.html,OKC,POR,4/14/19,4/23/19
+2019,072,western conference semifinals,/playoffs/2019-nba-western-conference-semifinals-trail-blazers-vs-nuggets.html,/playoffs/2019-nba-western-conference-semifinals-nuggets-vs-trail-blazers.html,DEN,POR,4/29/19,5/12/19
+2019,074,western conference finals,/playoffs/2019-nba-western-conference-finals-warriors-vs-trail-blazers.html,/playoffs/2019-nba-western-conference-finals-trail-blazers-vs-warriors.html,GSW,POR,5/14/19,5/20/19
+2019,075,finals,/playoffs/2019-nba-finals-raptors-vs-warriors.html,/playoffs/2019-nba-finals-warriors-vs-raptors.html,GSW,TOR,5/30/19,6/13/19
+2018,082,western conference first round,/playoffs/2018-nba-western-conference-first-round-pelicans-vs-trail-blazers.html,/playoffs/2018-nba-western-conference-first-round-trail-blazers-vs-pelicans.html,POR,NOP,4/14/18,4/21/18
+2018,090,finals,/playoffs/2018-nba-finals-warriors-vs-cavaliers.html,/playoffs/2018-nba-finals-cavaliers-vs-warriors.html,GSW,CLE,5/31/18,6/8/18
+2017,095,western conference first round,/playoffs/2017-nba-western-conference-first-round-warriors-vs-trail-blazers.html,/playoffs/2017-nba-western-conference-first-round-trail-blazers-vs-warriors.html,GSW,POR,4/16/17,4/24/17
+2017,105,finals,/playoffs/2017-nba-finals-warriors-vs-cavaliers.html,/playoffs/2017-nba-finals-cavaliers-vs-warriors.html,GSW,CLE,6/1/17,6/12/17
+2016,113,western conference first round,/playoffs/2016-nba-western-conference-first-round-trail-blazers-vs-clippers.html,/playoffs/2016-nba-western-conference-first-round-clippers-vs-trail-blazers.html,LAC,POR,4/17/16,4/29/16
+2016,116,western conference semifinals,/playoffs/2016-nba-western-conference-semifinals-warriors-vs-trail-blazers.html,/playoffs/2016-nba-western-conference-semifinals-trail-blazers-vs-warriors.html,GSW,POR,5/1/16,5/11/16
+2016,120,finals,/playoffs/2016-nba-finals-cavaliers-vs-warriors.html,/playoffs/2016-nba-finals-warriors-vs-cavaliers.html,GSW,CLE,6/2/16,6/19/16
+2015,128,western conference first round,/playoffs/2015-nba-western-conference-first-round-grizzlies-vs-trail-blazers.html,/playoffs/2015-nba-western-conference-first-round-trail-blazers-vs-grizzlies.html,MEM,POR,4/19/15,4/29/15
+2015,135,finals,/playoffs/2015-nba-finals-warriors-vs-cavaliers.html,/playoffs/2015-nba-finals-cavaliers-vs-warriors.html,GSW,CLE,6/4/15,6/16/15
+2014,143,western conference first round,/playoffs/2014-nba-western-conference-first-round-trail-blazers-vs-rockets.html,/playoffs/2014-nba-western-conference-first-round-rockets-vs-trail-blazers.html,HOU,POR,4/20/14,5/2/14
+2014,146,western conference semifinals,/playoffs/2014-nba-western-conference-semifinals-spurs-vs-trail-blazers.html,/playoffs/2014-nba-western-conference-semifinals-trail-blazers-vs-spurs.html,SAS,POR,5/6/14,5/14/14
+2014,150,finals,/playoffs/2014-nba-finals-spurs-vs-heat.html,/playoffs/2014-nba-finals-heat-vs-spurs.html,SAS,MIA,6/5/14,6/15/14
+2013,165,finals,/playoffs/2013-nba-finals-heat-vs-spurs.html,/playoffs/2013-nba-finals-spurs-vs-heat.html,MIA,SAS,6/6/13,6/20/13
+2012,180,finals,/playoffs/2012-nba-finals-heat-vs-thunder.html,/playoffs/2012-nba-finals-thunder-vs-heat.html,OKC,MIA,6/12/12,6/21/12
+2011,187,western conference first round,/playoffs/2011-nba-western-conference-first-round-mavericks-vs-trail-blazers.html,/playoffs/2011-nba-western-conference-first-round-trail-blazers-vs-mavericks.html,DAL,POR,4/16/11,4/28/11
+2011,195,finals,/playoffs/2011-nba-finals-mavericks-vs-heat.html,/playoffs/2011-nba-finals-heat-vs-mavericks.html,MIA,DAL,5/31/11,6/12/11
+2010,202,western conference first round,/playoffs/2010-nba-western-conference-first-round-suns-vs-trail-blazers.html,/playoffs/2010-nba-western-conference-first-round-trail-blazers-vs-suns.html,PHO,POR,4/18/10,4/29/10
+2010,210,finals,/playoffs/2010-nba-finals-lakers-vs-celtics.html,/playoffs/2010-nba-finals-celtics-vs-lakers.html,LAL,BOS,6/3/10,6/17/10
+2009,218,western conference first round,/playoffs/2009-nba-western-conference-first-round-rockets-vs-trail-blazers.html,/playoffs/2009-nba-western-conference-first-round-trail-blazers-vs-rockets.html,POR,HOU,4/18/09,4/30/09
+2009,225,finals,/playoffs/2009-nba-finals-lakers-vs-magic.html,/playoffs/2009-nba-finals-magic-vs-lakers.html,LAL,ORL,6/4/09,6/14/09
+2008,240,finals,/playoffs/2008-nba-finals-celtics-vs-lakers.html,/playoffs/2008-nba-finals-lakers-vs-celtics.html,LAL,BOS,6/5/08,6/17/08
+2007,255,finals,/playoffs/2007-nba-finals-spurs-vs-cavaliers.html,/playoffs/2007-nba-finals-cavaliers-vs-spurs.html,SAS,CLE,6/7/07,6/14/07
+2006,270,finals,/playoffs/2006-nba-finals-heat-vs-mavericks.html,/playoffs/2006-nba-finals-mavericks-vs-heat.html,DAL,MIA,6/8/06,6/20/06
+2005,285,finals,/playoffs/2005-nba-finals-spurs-vs-pistons.html,/playoffs/2005-nba-finals-pistons-vs-spurs.html,SAS,DET,6/9/05,6/23/05
+2004,300,finals,/playoffs/2004-nba-finals-pistons-vs-lakers.html,/playoffs/2004-nba-finals-lakers-vs-pistons.html,LAL,DET,6/6/04,6/15/04
+2003,305,western conference first round,/playoffs/2003-nba-western-conference-first-round-mavericks-vs-trail-blazers.html,/playoffs/2003-nba-western-conference-first-round-trail-blazers-vs-mavericks.html,DAL,POR,4/19/03,5/4/03
+2003,315,finals,/playoffs/2003-nba-finals-spurs-vs-nets.html,/playoffs/2003-nba-finals-nets-vs-spurs.html,SAS,NJN,6/4/03,6/15/03
+2002,321,western conference first round,/playoffs/2002-nba-western-conference-first-round-lakers-vs-trail-blazers.html,/playoffs/2002-nba-western-conference-first-round-trail-blazers-vs-lakers.html,LAL,POR,4/21/02,4/28/02
+2002,330,finals,/playoffs/2002-nba-finals-lakers-vs-nets.html,/playoffs/2002-nba-finals-nets-vs-lakers.html,LAL,NJN,6/5/02,6/12/02
+2001,336,western conference first round,/playoffs/2001-nba-western-conference-first-round-lakers-vs-trail-blazers.html,/playoffs/2001-nba-western-conference-first-round-trail-blazers-vs-lakers.html,LAL,POR,4/22/01,4/29/01
+2001,345,finals,/playoffs/2001-nba-finals-lakers-vs-76ers.html,/playoffs/2001-nba-finals-76ers-vs-lakers.html,LAL,PHI,6/6/01,6/15/01
+2000,351,western conference first round,/playoffs/2000-nba-western-conference-first-round-suns-vs-spurs.html,/playoffs/2000-nba-western-conference-first-round-spurs-vs-suns.html,PHO,SAS,4/22/00,5/2/00
+2000,352,western conference first round,/playoffs/2000-nba-western-conference-first-round-trail-blazers-vs-timberwolves.html,/playoffs/2000-nba-western-conference-first-round-timberwolves-vs-trail-blazers.html,POR,MIN,4/23/00,5/2/00
+2000,357,western conference semifinals,/playoffs/2000-nba-western-conference-semifinals-trail-blazers-vs-jazz.html,/playoffs/2000-nba-western-conference-semifinals-jazz-vs-trail-blazers.html,POR,UTA,5/7/00,5/16/00
+2000,359,western conference finals,/playoffs/2000-nba-western-conference-finals-lakers-vs-trail-blazers.html,/playoffs/2000-nba-western-conference-finals-trail-blazers-vs-lakers.html,LAL,POR,5/20/00,6/4/00
+2000,360,finals,/playoffs/2000-nba-finals-lakers-vs-pacers.html,/playoffs/2000-nba-finals-pacers-vs-lakers.html,LAL,IND,6/7/00,6/19/00
+1999,366,western conference first round,/playoffs/1999-nba-western-conference-first-round-trail-blazers-vs-suns.html,/playoffs/1999-nba-western-conference-first-round-suns-vs-trail-blazers.html,POR,PHO,5/8/99,5/12/99
+1999,371,western conference semifinals,/playoffs/1999-nba-western-conference-semifinals-trail-blazers-vs-jazz.html,/playoffs/1999-nba-western-conference-semifinals-jazz-vs-trail-blazers.html,UTA,POR,5/18/99,5/27/99
+1999,374,western conference finals,/playoffs/1999-nba-western-conference-finals-spurs-vs-trail-blazers.html,/playoffs/1999-nba-western-conference-finals-trail-blazers-vs-spurs.html,SAS,POR,5/29/99,6/6/99
+1999,375,finals,/playoffs/1999-nba-finals-spurs-vs-knicks.html,/playoffs/1999-nba-finals-knicks-vs-spurs.html,SAS,NYK,6/16/99,6/25/99
+1998,380,western conference first round,/playoffs/1998-nba-western-conference-first-round-lakers-vs-trail-blazers.html,/playoffs/1998-nba-western-conference-first-round-trail-blazers-vs-lakers.html,LAL,POR,4/24/98,4/30/98
+1998,390,finals,/playoffs/1998-nba-finals-bulls-vs-jazz.html,/playoffs/1998-nba-finals-jazz-vs-bulls.html,CHI,UTA,6/3/98,6/14/98
+1997,396,western conference first round,/playoffs/1997-nba-western-conference-first-round-lakers-vs-trail-blazers.html,/playoffs/1997-nba-western-conference-first-round-trail-blazers-vs-lakers.html,LAL,POR,4/25/97,5/2/97
+1997,405,finals,/playoffs/1997-nba-finals-bulls-vs-jazz.html,/playoffs/1997-nba-finals-jazz-vs-bulls.html,CHI,UTA,6/1/97,6/13/97
+1996,413,western conference first round,/playoffs/1996-nba-western-conference-first-round-jazz-vs-trail-blazers.html,/playoffs/1996-nba-western-conference-first-round-trail-blazers-vs-jazz.html,UTA,POR,4/25/96,5/5/96
+1996,420,finals,/playoffs/1996-nba-finals-bulls-vs-supersonics.html,/playoffs/1996-nba-finals-supersonics-vs-bulls.html,CHI,SEA,6/5/96,6/16/96
+1995,427,western conference first round,/playoffs/1995-nba-western-conference-first-round-suns-vs-trail-blazers.html,/playoffs/1995-nba-western-conference-first-round-trail-blazers-vs-suns.html,PHO,POR,4/28/95,5/2/95
+1995,435,finals,/playoffs/1995-nba-finals-rockets-vs-magic.html,/playoffs/1995-nba-finals-magic-vs-rockets.html,ORL,HOU,6/7/95,6/14/95
+1994,441,western conference first round,/playoffs/1994-nba-western-conference-first-round-rockets-vs-trail-blazers.html,/playoffs/1994-nba-western-conference-first-round-trail-blazers-vs-rockets.html,HOU,POR,4/29/94,5/6/94
+1994,450,finals,/playoffs/1994-nba-finals-rockets-vs-knicks.html,/playoffs/1994-nba-finals-knicks-vs-rockets.html,HOU,NYK,6/8/94,6/22/94

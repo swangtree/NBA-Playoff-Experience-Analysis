@@ -1,0 +1,33 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx3600\clbrdrt\brdrs\cellx5184\clbrdrt\brdrs\cellx6768\clbrdrt\brdrs\cellx8496\clbrdrt\brdrs\cellx10224\clbrdrt\brdrs\cellx11952\clbrdrt\brdrs\cellx13680\clbrdrt\brdrs\cellx15408\clbrdrt\brdrs\cellx17136\clbrdrt\brdrs\cellx18864\clbrdrt\brdrs\cellx20592\clbrdrt\brdrs\cellx22320\clbrdrt\brdrs\cellx24048
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\qc (6)\cell\qc (7)\cell\qc (8)\cell\qc (9)\cell\qc (10)\cell\qc (11)\cell\qc (12)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3600\cellx5184\cellx6768\cellx8496\cellx10224\cellx11952\cellx13680\cellx15408\cellx17136\cellx18864\cellx20592\cellx22320\cellx24048
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx3600\clbrdrb\brdrs\cellx5184\clbrdrb\brdrs\cellx6768\clbrdrb\brdrs\cellx8496\clbrdrb\brdrs\cellx10224\clbrdrb\brdrs\cellx11952\clbrdrb\brdrs\cellx13680\clbrdrb\brdrs\cellx15408\clbrdrb\brdrs\cellx17136\clbrdrb\brdrs\cellx18864\clbrdrb\brdrs\cellx20592\clbrdrb\brdrs\cellx22320\clbrdrb\brdrs\cellx24048
+\ql VARIABLES\cell\qc at_home\cell\qc at_home\cell\qc ln_score\cell\qc ln_score\cell\qc ln_score\cell\qc ln_score\cell\qc ln_score\cell\qc ln_score\cell\qc ln_score\cell\qc ln_score\cell\qc ln_score\cell\qc ln_score\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3600\cellx5184\cellx6768\cellx8496\cellx10224\cellx11952\cellx13680\cellx15408\cellx17136\cellx18864\cellx20592\cellx22320\cellx24048
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql ln_reg_season_points\cell\qc \cell\qc \cell\qc 0.945***\cell\qc 0.945***\cell\qc 0.945***\cell\qc 0.945***\cell\qc 0.945***\cell\qc 0.945***\cell\qc 0.945***\cell\qc 0.945***\cell\qc 0.945***\cell\qc 0.945***\cell\row
+\ql \cell\qc \cell\qc \cell\qc (0.0456)\cell\qc (0.0456)\cell\qc (0.0456)\cell\qc (0.0456)\cell\qc (0.0456)\cell\qc (0.0456)\cell\qc (0.0456)\cell\qc (0.0456)\cell\qc (0.0456)\cell\qc (0.0456)\cell\row
+\ql ln_opp_reg_season_pa\cell\qc \cell\qc \cell\qc 0.760***\cell\qc 0.760***\cell\qc 0.760***\cell\qc 0.760***\cell\qc 0.760***\cell\qc 0.760***\cell\qc 0.760***\cell\qc 0.760***\cell\qc 0.760***\cell\qc 0.760***\cell\row
+\ql \cell\qc \cell\qc \cell\qc (0.0482)\cell\qc (0.0482)\cell\qc (0.0482)\cell\qc (0.0482)\cell\qc (0.0482)\cell\qc (0.0482)\cell\qc (0.0482)\cell\qc (0.0482)\cell\qc (0.0482)\cell\qc (0.0482)\cell\row
+\ql away\cell\qc \cell\qc \cell\qc -0.0414***\cell\qc -0.0414***\cell\qc -0.0414***\cell\qc -0.0414***\cell\qc -0.0414***\cell\qc -0.0414***\cell\qc -0.0414***\cell\qc -0.0414***\cell\qc -0.0414***\cell\qc -0.0414***\cell\row
+\ql \cell\qc \cell\qc \cell\qc (0.00337)\cell\qc (0.00337)\cell\qc (0.00337)\cell\qc (0.00337)\cell\qc (0.00337)\cell\qc (0.00337)\cell\qc (0.00337)\cell\qc (0.00337)\cell\qc (0.00337)\cell\qc (0.00337)\cell\row
+\ql starters_playoff_exp_dif\cell\qc 2.24e-06**\cell\qc 2.24e-06**\cell\qc 9.67e-07***\cell\qc 9.67e-07***\cell\qc 9.67e-07***\cell\qc 9.67e-07***\cell\qc 9.67e-07***\cell\qc 9.67e-07***\cell\qc 9.67e-07***\cell\qc 9.67e-07***\cell\qc 9.67e-07***\cell\qc 9.67e-07***\cell\row
+\ql \cell\qc (1.04e-06)\cell\qc (1.04e-06)\cell\qc (2.57e-07)\cell\qc (2.57e-07)\cell\qc (2.57e-07)\cell\qc (2.57e-07)\cell\qc (2.57e-07)\cell\qc (2.57e-07)\cell\qc (2.57e-07)\cell\qc (2.57e-07)\cell\qc (2.57e-07)\cell\qc (2.57e-07)\cell\row
+\ql bench_playoff_exp_dif\cell\qc \cell\qc \cell\qc 7.26e-07*\cell\qc 7.26e-07*\cell\qc 7.26e-07*\cell\qc 7.26e-07*\cell\qc 7.26e-07*\cell\qc 7.26e-07*\cell\qc 7.26e-07*\cell\qc 7.26e-07*\cell\qc 7.26e-07*\cell\qc 7.26e-07*\cell\row
+\ql \cell\qc \cell\qc \cell\qc (3.91e-07)\cell\qc (3.91e-07)\cell\qc (3.91e-07)\cell\qc (3.91e-07)\cell\qc (3.91e-07)\cell\qc (3.91e-07)\cell\qc (3.91e-07)\cell\qc (3.91e-07)\cell\qc (3.91e-07)\cell\qc (3.91e-07)\cell\row
+\ql reg_season_points\cell\qc 0.000585\cell\qc 0.000585\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc (0.00164)\cell\qc (0.00164)\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql opp_reg_season_pa\cell\qc 7.74e-05\cell\qc 7.74e-05\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc (0.00165)\cell\qc (0.00165)\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Constant\cell\qc 0.432***\cell\qc 0.432***\cell\qc -3.265***\cell\qc -3.265***\cell\qc -3.265***\cell\qc -3.265***\cell\qc -3.265***\cell\qc -3.265***\cell\qc -3.265***\cell\qc -3.265***\cell\qc -3.265***\cell\qc -3.265***\cell\row
+\ql \cell\qc (0.111)\cell\qc (0.111)\cell\qc (0.285)\cell\qc (0.285)\cell\qc (0.285)\cell\qc (0.285)\cell\qc (0.285)\cell\qc (0.285)\cell\qc (0.285)\cell\qc (0.285)\cell\qc (0.285)\cell\qc (0.285)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 4,476\cell\qc 4,476\cell\qc 4,476\cell\qc 4,476\cell\qc 4,476\cell\qc 4,476\cell\qc 4,476\cell\qc 4,476\cell\qc 4,476\cell\qc 4,476\cell\qc 4,476\cell\qc 4,476\cell\row
+\ql R-squared\cell\qc 0.001\cell\qc 0.001\cell\qc 0.188\cell\qc 0.188\cell\qc 0.188\cell\qc 0.188\cell\qc 0.188\cell\qc 0.188\cell\qc 0.188\cell\qc 0.188\cell\qc 0.188\cell\qc 0.188\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx3600\clbrdrb\brdrs\cellx5184\clbrdrb\brdrs\cellx6768\clbrdrb\brdrs\cellx8496\clbrdrb\brdrs\cellx10224\clbrdrb\brdrs\cellx11952\clbrdrb\brdrs\cellx13680\clbrdrb\brdrs\cellx15408\clbrdrb\brdrs\cellx17136\clbrdrb\brdrs\cellx18864\clbrdrb\brdrs\cellx20592\clbrdrb\brdrs\cellx22320\clbrdrb\brdrs\cellx24048
+\ql Number of year\cell\qc \cell\qc \cell\qc 30\cell\qc 30\cell\qc 30\cell\qc 30\cell\qc 30\cell\qc 30\cell\qc 30\cell\qc 30\cell\qc 30\cell\qc 30\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

@@ -1,0 +1,22 @@
+	(1)	(2)	(3)	(4)	(5)
+VARIABLES	N	mean	sd	min	max
+					
+score	4,476	98.28	13.62	56	154
+series_id	4,476	217.9	128.3	1	449
+starters_playoff_exp_dif	4,476	0	7,218	-21,800	21,800
+bench_playoff_exp_dif	4,476	0	4,759	-16,241	16,241
+at_home	4,476	0.500	0.500	0	1
+reg_season_points	4,476	102.7	7.238	86.30	120.7
+opp_reg_season_pa	4,476	98.59	7.211	83.40	118.5
+year	4,476	2,009	8.537	1,994	2,023
+starters_playoff_exp_quartile	4,476	2.501	1.118	1	4
+total_playoff_exp_quartile	4,476	2.500	1.118	1	4
+ln_score	4,476	4.578	0.139	4.025	5.037
+ln_reg_season_points	4,476	4.629	0.0698	4.458	4.793
+ln_opp_reg_season_pa	4,476	4.588	0.0723	4.424	4.775
+least_starters_exp_quartile	4,476	0.249	0.433	0	1
+away	4,476	0.500	0.500	0	1
+least_starters_exp_quartile_away	4,476	0.130	0.337	0	1
+total_playoff_exp_dif	4,476	0	10,149	-30,607	30,607
+					
+Number of year	29	29	29	29	29

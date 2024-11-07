@@ -1,0 +1,26 @@
+ln(Playoff Score	
+with Least Starters Exp Difference Quartile	
+	(1)
+VARIABLES	ln_score
+	
+ln_reg_season_points	0.945***
+	(0.0460)
+ln_opp_reg_season_pa	0.778***
+	(0.0482)
+away	-0.0445***
+	(0.00396)
+starters_playoff_exp_dif	1.50e-06***
+	(3.57e-07)
+least_starters_exp_quartile	0.00489
+	(0.00736)
+least_starters_exp_quartile_away	0.00654
+	(0.00791)
+Constant	-3.343***
+	(0.285)
+	
+Observations	4,322
+Number of year	29
+R-squared	0.193
+Year FE	YES
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

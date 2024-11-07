@@ -1,0 +1,29 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx4752\clbrdrt\brdrs\cellx5616\clbrdrt\brdrs\cellx6480\clbrdrt\brdrs\cellx7488\clbrdrt\brdrs\cellx8640\clbrdrt\brdrs\cellx9648
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx4752\cellx5616\cellx6480\cellx7488\cellx8640\cellx9648
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx5616\clbrdrb\brdrs\cellx6480\clbrdrb\brdrs\cellx7488\clbrdrb\brdrs\cellx8640\clbrdrb\brdrs\cellx9648
+\ql VARIABLES\cell\qc N\cell\qc mean\cell\qc sd\cell\qc min\cell\qc max\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx4752\cellx5616\cellx6480\cellx7488\cellx8640\cellx9648
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql score\cell\qc 4,476\cell\qc 98.28\cell\qc 13.62\cell\qc 56\cell\qc 154\cell\row
+\ql series_id\cell\qc 4,476\cell\qc 217.9\cell\qc 128.3\cell\qc 1\cell\qc 449\cell\row
+\ql starters_playoff_exp_dif\cell\qc 4,476\cell\qc 0\cell\qc 7,218\cell\qc -21,800\cell\qc 21,800\cell\row
+\ql bench_playoff_exp_dif\cell\qc 4,476\cell\qc 0\cell\qc 4,759\cell\qc -16,241\cell\qc 16,241\cell\row
+\ql at_home\cell\qc 4,476\cell\qc 0.500\cell\qc 0.500\cell\qc 0\cell\qc 1\cell\row
+\ql reg_season_points\cell\qc 4,476\cell\qc 102.7\cell\qc 7.238\cell\qc 86.30\cell\qc 120.7\cell\row
+\ql opp_reg_season_pa\cell\qc 4,476\cell\qc 98.59\cell\qc 7.211\cell\qc 83.40\cell\qc 118.5\cell\row
+\ql year\cell\qc 4,476\cell\qc 2,009\cell\qc 8.537\cell\qc 1,994\cell\qc 2,023\cell\row
+\ql starters_playoff_exp_quartile\cell\qc 4,476\cell\qc 2.501\cell\qc 1.118\cell\qc 1\cell\qc 4\cell\row
+\ql total_playoff_exp_quartile\cell\qc 4,476\cell\qc 2.500\cell\qc 1.118\cell\qc 1\cell\qc 4\cell\row
+\ql ln_score\cell\qc 4,476\cell\qc 4.578\cell\qc 0.139\cell\qc 4.025\cell\qc 5.037\cell\row
+\ql ln_reg_season_points\cell\qc 4,476\cell\qc 4.629\cell\qc 0.0698\cell\qc 4.458\cell\qc 4.793\cell\row
+\ql ln_opp_reg_season_pa\cell\qc 4,476\cell\qc 4.588\cell\qc 0.0723\cell\qc 4.424\cell\qc 4.775\cell\row
+\ql least_starters_exp_quartile\cell\qc 4,476\cell\qc 0.249\cell\qc 0.433\cell\qc 0\cell\qc 1\cell\row
+\ql away\cell\qc 4,476\cell\qc 0.500\cell\qc 0.500\cell\qc 0\cell\qc 1\cell\row
+\ql least_starters_exp_quartile_away\cell\qc 4,476\cell\qc 0.130\cell\qc 0.337\cell\qc 0\cell\qc 1\cell\row
+\ql total_playoff_exp_dif\cell\qc 4,476\cell\qc 0\cell\qc 10,149\cell\qc -30,607\cell\qc 30,607\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx5616\clbrdrb\brdrs\cellx6480\clbrdrb\brdrs\cellx7488\clbrdrb\brdrs\cellx8640\clbrdrb\brdrs\cellx9648
+\ql Number of year\cell\qc 29\cell\qc 29\cell\qc 29\cell\qc 29\cell\qc 29\cell\row
+}
